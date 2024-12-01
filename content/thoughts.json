@@ -1,5 +1,10 @@
 [
   {
+    "id": "1733015048682",
+    "content": "Gleam:\n\n- [All about Gleam](https://gleaming.dev/)\n- [A library for building real-time server UI components and live views in Gleam](https://sprocket.live/)\n- [👩🏾‍🍳 How to do many things in Gleam](https://github.com/gleam-lang/cookbook)\n- [Simple, robust and performant Erlang web server](https://github.com/elli-lib/elli/blob/develop/doc/README.md)\n- [🐘 A PostgreSQL database client for Gleam, based on PGO](https://hexdocs.pm/pgo)\n- [🧚 A practical web framework for Gleam](https://gleam-wisp.github.io/wisp/)\n- [A Gleam compiler written in Gleam](https://github.com/schurhammer/gig)\n- [📦 Search for Gleam packages](https://packages.gleam.run/)\n- []()\n",
+    "timestamp": "2024-12-01T01:04:08.682Z"
+  },
+  {
     "id": "1733011525908",
     "content": "前端\n\n[Nitro](https://nitro.build/)\n",
     "timestamp": "2024-12-01T00:05:25.909Z"
