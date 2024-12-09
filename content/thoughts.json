@@ -21,7 +21,7 @@
   },
   {
     "id": "1732507218658",
-    "content": "Docker manual\n\n```\nsudo apt remove golang-docker-credential-helpers\n```\n## Login\n```\ndocker login --username=fanrong@1451694405167915 registry.cn-hangzhou.aliyuncs.com\n```\n## Remove unused images\n```\ndocker image prune\n```\n## Remove build cache older than 24h\n```\ndocker builder prune --filter until=24h\n```\n",
+    "content": "Docker manual\n\n```\nsudo apt remove golang-docker-credential-helpers\n```\n## Login\n```\ndocker login --username=fanrong@1451694405167915 registry.cn-hangzhou.aliyuncs.com\n```\n## Remove unused images\n```\ndocker image prune\n```\n## Remove build cache older than 24h\n```\ndocker builder prune --filter until=24h\n```\n\nNodeJS\n\n```\nnpm create astro@latest --registry=https://registry.npmjs.org\n```\n",
     "timestamp": "2024-11-25T04:00:18.658Z"
   },
   {
